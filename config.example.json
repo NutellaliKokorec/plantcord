@@ -10,6 +10,7 @@
     "uptime" : "uptime",
     "water" : "water",
     "photo" : "photo"
+    "info" : "info"
   },
   "answers" : {
     "ping" : {
@@ -35,6 +36,13 @@
       "desc" : "Bitkinin anlık fotoğrafı için",
       "color" : "GREY",
       "photo_path" : "plant_photo.webp"
+    },
+    "info" : {
+      "title" : "Veriler",
+      "desc" : "Detaylı veriler için",
+      "color" : "GREEN",
+      "field1" : "Sulama Sayısı: ",
+      "field2" : "Ortalama Nem Oranı: "
     },
     "default" : {
       "title" : "Kullanılabilecek Komutlar",
